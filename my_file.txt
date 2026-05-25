@@ -14,4 +14,5 @@ git pull origin main
 git push origin newbranch
 
 
-hello
+git fetch?
+Use git fetch if you want to see what others have been working on without disrupting your current progress. After fetching, you can use git log or git diff to review the incoming changes before manually running git merge.
