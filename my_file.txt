@@ -16,3 +16,9 @@ git push origin newbranch
 
 git fetch?
 Use git fetch if you want to see what others have been working on without disrupting your current progress. After fetching, you can use git log or git diff to review the incoming changes before manually running git merge.
+
+
+git merge?
+The git merge command is used to combine changes from another branch into your current branch.
+git switch main
+
