@@ -21,4 +21,7 @@ Use git fetch if you want to see what others have been working on without disrup
 git merge?
 The git merge command is used to combine changes from another branch into your current branch. qwerty
 git switch main
-git merge newbranch qwertyu
+git merge newbranch. testing new branch
+
+
+testing cherry pick
