@@ -36,7 +36,7 @@ function add(num:number,num2:number):number{
     return num + num2;
 }
 
-add(2,4);
+add(2,4)
 
 
 function display<t>(num:t):t{
