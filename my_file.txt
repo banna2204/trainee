@@ -24,4 +24,4 @@ git switch main
 git merge newbranch. testing new branch
 
 
-testing cherry pick
+push data in newbranch 
