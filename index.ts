@@ -36,7 +36,7 @@ function add(num:number,num2:number):number{
     return num + num2;
 }
 
-add(2,4);
+add(2,4)
 
 
 function display<t>(num:t):t{
@@ -63,5 +63,3 @@ type extendStudent = student & {
 const myrollNo : rollNo = 25;
 
 const Student : extendStudent = {name:'shubham',marks:90,class:'12th'};
-
-console.log(Student);
