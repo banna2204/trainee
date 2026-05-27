@@ -63,5 +63,3 @@ type extendStudent = student & {
 const myrollNo : rollNo = 25;
 
 const Student : extendStudent = {name:'shubham',marks:90,class:'12th'};
-
-console.log(Student);
